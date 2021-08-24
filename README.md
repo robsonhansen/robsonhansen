@@ -1,11 +1,9 @@
-## Olá, eu sou o Rob! 👋
+## Olá, eu sou o Robson! 👋
 
 
-Here are some ideas to get you started:
-
---> 💻 Hoje eu trabalho com TI na empresa Intellectus. 
---> 🐍☕ Estudante de Pyhton e Java. 
---> 👨‍🎓 Mestre em fazer figurinhas. 
+--> 💻 Trabalho com TI na empresa Intellectus. <br/>
+--> 🐍☕ Estudante de Pyhton e Java. <br/>
+--> 👨‍🎓 Mestre em fazer figurinhas. <br/><br/>
 
 <div>
   <a href="https://github.com/robb-z">
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Django" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Rafa-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   
 </div>
   
