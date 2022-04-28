@@ -1,9 +1,6 @@
 ## Olá, eu sou o Robson! 👋
 
-
---> 💻 Trabalho com TI na empresa Intellectus. <br/>
---> 🐍☕ Estudante de Pyhton e Java. <br/>
---> 👨‍🎓 Mestre em fazer figurinhas. <br/>
+--> 🐍 Desenvolvedor Python
  
    ## Status
   
