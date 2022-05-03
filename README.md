@@ -5,16 +5,18 @@
    ## Status
   
 <div>
-  <a href="https://github.com/robb-z">
+  <a href="https://github.com/robsonhansen">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=robb-z&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robb-z&layout=compact&langs_count=7&theme=onedark"/>
     
-![Snake animation](https://github.com/Robb-Z/Robb-Z/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/robsonhansen/robsonhansen/blob/output/github-contribution-grid-snake.svg)  
 </div>
   
   ## Linguagens
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <br/> 
