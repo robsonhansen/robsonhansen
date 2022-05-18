@@ -1,6 +1,7 @@
 ## Olá, eu sou o Robson! 👋
 
---> 🐍 Desenvolvedor Python
+--> Graphic Design & Web Design 
+--> Desenvolvedor Python 
  
    ## Status
   
