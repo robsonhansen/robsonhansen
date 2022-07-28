@@ -1,6 +1,6 @@
-## Olá, eu sou o Robson! 👋
+## Olá, eu sou o Robson! 
 
-Estudante Web FullStack Kenzie Academy Brasil 
+Estudante Full Stack Kenzie Academy Brasil 
 
    ## Status
   
