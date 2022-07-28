@@ -1,8 +1,7 @@
 ## Olá, eu sou o Robson! 👋
 
---> Graphic Design & Web Design <br>
---> Desenvolvedor Python 
- 
+Estudante Web FullStack Kenzie Academy Brasil 
+
    ## Status
   
 <div>
