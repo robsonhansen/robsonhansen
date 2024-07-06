@@ -1,7 +1,3 @@
-## Olá, eu sou o Robson! 
-
-   ## Status
-
 <div>
    
   <a href="https://github.com/robsonhansen">
