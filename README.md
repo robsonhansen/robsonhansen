@@ -12,7 +12,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/robson.hansen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/robson-hansen/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2E86C1?style=for-the-badge&logo=linkedin.&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/robson-hansen/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin.&logoColor=white"</a>
 </div> 
  
 ### Main skills:
