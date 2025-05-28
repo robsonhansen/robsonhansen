@@ -12,15 +12,15 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/robson.hansen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/robson-hansen/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin.&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/robson-hansen/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2e86c1?style=for-the-badge&logo=linkedin.&logoColor=white"</a>
 </div> 
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![sharp](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![dotnet](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117)&nbsp;
+![csharp](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![dotnet](https://img.shields.io/badge/-.Net-0D1117?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117)&nbsp;
 
  
 ### Tools:
